@@ -1,27 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+HI this Stillgar71 ..
 
-Things you may want to cover:
+This project is basically a walkthough of agile-web-development with Rails and using the git system.
 
-* Ruby version
+I am creating the cart application and updating git at stopping places in the book.. If you look at my commits they referrer to the chapter.. 
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 
 
 Please feel free to use a different markup language if you do not plan to run
